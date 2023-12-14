@@ -26,6 +26,9 @@
 .card__answer {
   margin: 0 2rem;
   font-style: italic;
+}
+
+.hidden{
   display: none;
 }
 
